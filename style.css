@@ -1,0 +1,40 @@
+body{
+    background-color: lightpink;
+}
+
+.head {
+    color: #00008b;
+}
+
+#bglime {
+    background-color: #EBFFEB;
+    color: red;
+}
+
+p{
+    color:white;
+    font-size: 25px;
+}
+
+#para{
+    color:green;
+}
+
+span {
+    color:black;
+    font-size: 35px;
+}
+
+a{
+    background-color: yellow;
+    color:green;
+    text-decoration: none;
+}
+
+ol li:nth-child(2){
+    color:blue;
+}
+
+ol li:nth-child(3){
+    color:red
+}
